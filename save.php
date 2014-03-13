@@ -1,4 +1,12 @@
 <?php
+	/*
+	* Name: Editable
+	* Author: Amir R Muntasser
+	* Description: A little tool to enable live editing on a static webpage.
+	* Dependencies: jQuery 1.4.2+
+	* License: MIT License
+	*/
+
 	include_once "format.php";
 	include_once "simple.php";
 	

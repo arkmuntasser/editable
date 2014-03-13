@@ -1,3 +1,11 @@
+/*
+* Name: Editable
+* Author: Amir R Muntasser
+* Description: A little tool to enable live editing on a static webpage.
+* Dependencies: jQuery 1.4.2+
+* License: MIT License
+*/
+
 $("#editable-edit").click(function() {
   $(".control:first").hide();
   $(".control:last").show();
